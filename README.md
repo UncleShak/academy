@@ -18,15 +18,15 @@ Run in your project folder.
 
 **Windows (PowerShell)**
 ```powershell
-& ([scriptblock]::Create((irm https://raw.githubusercontent.com/YOUR-USER/academy/main/install.ps1)))
+& ([scriptblock]::Create((irm https://raw.githubusercontent.com/UncleShak/academy/main/install.ps1)))
 ```
 
 **macOS, Linux or Git Bash**
 ```sh
-curl -fsSL https://raw.githubusercontent.com/YOUR-USER/academy/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/UncleShak/academy/main/install.sh | bash
 ```
 
-**Or ask Claude Code:** "Run the Academy installer from github.com/YOUR-USER/academy in this project."
+**Or ask Claude Code:** "Run the Academy installer from github.com/UncleShak/academy in this project."
 
 For every project at once, install globally instead: add `-Global` after the closing `)` in PowerShell, or use `bash -s -- --global` with curl.
 

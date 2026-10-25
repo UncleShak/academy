@@ -3,7 +3,7 @@
 param([switch]$Global)
 $ErrorActionPreference = 'Stop'
 
-$Repo   = if ($env:ACADEMY_REPO) { $env:ACADEMY_REPO } else { 'YOUR-USER/academy' }
+$Repo   = if ($env:ACADEMY_REPO) { $env:ACADEMY_REPO } else { 'UncleShak/academy' }
 $Ref    = if ($env:ACADEMY_REF)  { $env:ACADEMY_REF }  else { 'main' }
 $Agents = 'aristotle', 'diogenes', 'thales', 'socrates'
 $Utf8   = New-Object System.Text.UTF8Encoding($false)   # no BOM, so frontmatter parses

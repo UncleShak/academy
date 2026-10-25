@@ -3,7 +3,7 @@
 # Re-run to update. Safe to run more than once.
 set -euo pipefail
 
-REPO="${ACADEMY_REPO:-YOUR-USER/academy}"
+REPO="${ACADEMY_REPO:-UncleShak/academy}"
 REF="${ACADEMY_REF:-main}"
 AGENTS="aristotle diogenes thales socrates"
 
