@@ -1,6 +1,5 @@
 # The Academy
-
-![alt text](https://za.pinterest.com/pin/687080486906718173/)
+<img width="736" height="244" alt="twitter header" src="https://github.com/user-attachments/assets/94724bf2-449b-4e58-8327-e86c2769f1ac" />
 
 A Greek-philosopher hierarchy of Claude Code agents. Opus thinks and plans; Sonnet and Haiku do the work. Built to spend as few tokens as possible.
 
