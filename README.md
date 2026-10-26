@@ -1,5 +1,7 @@
 # The Academy
 
+![alt text](https://za.pinterest.com/pin/687080486906718173/)
+
 A Greek-philosopher hierarchy of Claude Code agents. Opus thinks and plans; Sonnet and Haiku do the work. Built to spend as few tokens as possible.
 
 | Agent | Model | Role |
